@@ -88,7 +88,7 @@ Project demonstrate the coding of HTMl and CSS in different kinds of headers and
 3. File Structure to follow
 
 ```
-WD-SEATWORK3-MAIN-MAIN
+WD-SEATWORK-3
 └─ assets
 |   └─ css
 |   |   └─ style.css
