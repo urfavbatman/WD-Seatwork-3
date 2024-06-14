@@ -37,7 +37,7 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-
+/*Header Style 1 */
 .header-style-1 {
     display: flex;
     justify-content: space-between;
@@ -64,6 +64,7 @@ body {
 }
 
 }
+/*Header Style 2 */
 .header-style-2 {
     display: flex;
     justify-content: space-between;
@@ -92,7 +93,7 @@ body {
     font-weight: 600;
 }
 }
-
+/*Header Style 3 */
 .header-style-3 {
     padding: 20px;
     background-color: #0078d7;
@@ -123,7 +124,7 @@ body {
     color: #fff;
 }
 }
-
+/*Header Style 4 */
 .header-style-4 {
     display: flex;
     justify-content: space-between;
@@ -151,6 +152,7 @@ body {
 
 
 }
+/*Header Style 5 */
 .header-style-5 {
     display: flex;
     justify-content: center;
@@ -186,7 +188,7 @@ body {
 }
 }
 
-
+/*Animated Header Style 1 */
 .animatedheader-1{
     display: flex;
     justify-content: space-between;
@@ -241,7 +243,7 @@ body {
     }
 }
 }
-
+/*Animated Header Style 2 */
 .animatedheader-2 {
     display: flex;
     justify-content: space-between;
@@ -308,7 +310,7 @@ body {
 }
 }
 }
-
+/*Animated Header Style 3 */
 .animatedheader-3{
 padding: 20px;
     background-color: #0078d7;
@@ -372,7 +374,7 @@ padding: 20px;
 
 }
 }
-
+/*Animated Header Style 4 */
 .animatedheader-4 {
     display: flex;
     justify-content: space-between;
@@ -439,7 +441,7 @@ padding: 20px;
 }
 
 }
-
+/*Animated Header Style 5 */
 .animatedheader-5 {
     display: flex;
     justify-content: center;
