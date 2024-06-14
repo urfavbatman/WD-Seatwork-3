@@ -71,6 +71,12 @@ Project demonstrate the coding of HTMl and CSS in different kinds of headers and
   - Multi Layer Domino Effect
   - Not Effect
 
+- Footer Animation
+  - Hover Effect
+  - Active Effect
+  - Multi Layer Domino Effect
+  - Not Effect
+
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
